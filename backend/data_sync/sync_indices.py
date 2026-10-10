@@ -24,7 +24,7 @@ INDICES = {
     "SENSEX":      "^BSESN",
     "NIFTY IT":    "^CNXIT",
     "NIFTY PHARMA": "^CNXPHARMA",
-    "NIFTY MIDCAP 100": "^NSEMDCP50",
+    "NIFTY MIDCAP 100": "^NIFMD100",
 }
 
 # Yahoo's ^CNXAUTO / ^CNXFMCG / ^CNXMETAL / ^CNXENERGY / ^CNXREALTY return only
